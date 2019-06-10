@@ -1,2 +1,2 @@
-# Alts_Repo1
-Test Repository 1
+# First File For Git Demo
+This is a test sample, Hello World!!!
